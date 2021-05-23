@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot-1440width](./images/four-card-feature-finished.jpg)
-![Screenshot-375width](./images/four-card-feature-finished-mobile.jpg)
+![Screenshot-1440width](./images/four-card-feature-finished.png)
+![Screenshot-375width](./images/four-card-feature-finished-mobile.png)
 
 ### Links
 
