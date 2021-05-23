@@ -28,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/four-card-feature-finished.jpg]
+![Screenshot-1440width](./images/four-card-feature-finished.jpg)
+![Screenshot-375width](./images/four-card-feature-finished-mobile.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/yucppe/four-card-feature-section-master.git]
-- Live Site URL: [https://yucppe.github.io/four-card-feature-section-master/]
+- Solution URL: [Repo](https://github.com/yucppe/four-card-feature-section-master.git)
+- Live Site URL: [Site](https://yucppe.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -57,7 +58,7 @@ Improved the skills on how to size and fit everything in place in the cointainer
 
 ### Continued development
 
-Still want to learn how to work more properly with grid and flex, with fluids measurements, and how to work with responsive desing.
+Still want to learn how to work more properly with grid and flex, with fluids measurements, and responsive desing.
 
 ## Author
 
